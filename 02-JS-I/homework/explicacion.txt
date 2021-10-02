@@ -1,0 +1,7 @@
+Variables: una variable es un elemento que se usa para almacenar y hacer referencia a otro valor
+Strings: son cadenas de caracteres en formato de texto
+Funciones (argumentos, `return`): son instrucciones que realizan una tarea o calculan un valor.
+para devolver un valor especifico debe tener la palabra return.
+los argumentos son los valores de la funcion.
+Declaraciones `if`: se usaa si una condición específicada es evaluada como verdadera. Si la condición es evaluada como falsa, otra sentencia puede ser ejecutada.
+Valores booleanos (`true`, `false`): una variable es booleana si se le asigna como contenido verdadero o falso.
