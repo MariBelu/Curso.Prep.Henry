@@ -1,0 +1,4 @@
+for:se utiliza para repetir una o más instrucciones un determinado número de veces
+&&: quiere decir "y", si ambas son verdaderas y devuelve true, si uno o ambos son falsos, devuelve false
+||: quiere decir "o", si una o ambas expresiones son verdaderas devolvera true, si ambas son falsas devolvera false
+!: quiere decir "no", devolvera el valor booleano opuesto
